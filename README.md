@@ -10,6 +10,7 @@ Karena saya pas SMP saya senang dengan software,karna itu saya penasaran bagaima
 maka dari itu saya tertarik pada bidang webDev.
 
 <h1>🌱 Saat ini saya sedang belajar...</h1>
+Di kelas 10 ini sedang belajar tentang scratch, figma, HTML, dan css.
 <h1>💞️ Saya ingin berkolaborasi pada...</h1>
 <h1>📫 Bagaimana cara menghubungi saya...</h1>
 <h1>😄 Kata ganti: ...</h1>
